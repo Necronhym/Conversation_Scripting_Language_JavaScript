@@ -17,7 +17,7 @@ NODE [What eles you got] (Please take a look at out text.txt example script, the
 	CHILD(More nodes);
 	CHILD(Show me sintax);
 }
-NODE [Show me sintax) ( The scripts starts from the ROOT node every CLs text file must have one. It prints whatevers in the brackets that follow root. if you want to add an image or something just add brackits as if yo uwhere editing an html file<br> same goes for brakes, after tgat inside {} brackets add CHILD nodes with the text you would like a button to display<br> next make a node that corestponds to that child and indside [] write the new text <br> after that repat the same as root)
+NODE [Show me sintax] ( The scripts starts from the ROOT node every CLs text file must have one. It prints whatevers in the brackets that follow root. if you want to add an image or something just add brackits as if yo uwhere editing an html file<br> same goes for brakes, after tgat inside {} brackets add CHILD nodes with the text you would like a button to display<br> next make a node that corestponds to that child and indside [] write the new text <br> after that repat the same as root)
 {
 	CHILD(I GOT NOTHING);
 }
